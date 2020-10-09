@@ -1,0 +1,22 @@
+{
+  "name": "prettier-config-smarthr",
+  "version": "0.1.0",
+  "description": "A sharable prettier config for SmartHR",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git+git@github.com:kufu/prettier-config-smarthr"
+  },
+  "homepage": "https://github.com/kufu/prettier-config-smarthr#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
+  "bugs": {
+    "url": "https://github.com/kufu/prettier-config-smarthr/issues"
+  },
+  "keywords": [
+    "prettier"
+  ],
+  "author": "SmartHR",
+  "license": "MIT"
+}
