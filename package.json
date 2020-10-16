@@ -17,6 +17,13 @@
   "keywords": [
     "prettier"
   ],
+  "scripts": {
+    "release:dryrun": "standard-version --dry-run",
+    "release": "standard-version"
+  },
   "author": "SmartHR",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "standard-version": "^9.0.0"
+  }
 }
