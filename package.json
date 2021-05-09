@@ -24,6 +24,6 @@
   "author": "SmartHR",
   "license": "MIT",
   "devDependencies": {
-    "standard-version": "^9.0.0"
+    "standard-version": "^9.3.0"
   }
 }
