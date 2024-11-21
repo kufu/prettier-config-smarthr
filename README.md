@@ -2,6 +2,13 @@
 
 A sharable prettier config for SmartHR.
 
+## Information
+
+This repository has been archived.  
+The project has been moved to [kufu/tamatebako/packages/prettier-config-smarthr](https://github.com/kufu/tamatebako/tree/master/packages/prettier-config-smarthr) and is being actively maintained there.
+
+---
+
 ## Installation
 
 prettier-config-smarthr is available as an  [npm package](https://www.npmjs.com/package/prettier-config-smarthr).
